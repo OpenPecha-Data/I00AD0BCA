@@ -1,0 +1,27 @@
+id: I00AD0BCA
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-28T15:33:00+00:00'
+last_modified: '2022-06-09T05:08:02.408800+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W8LS18637
+  title: ཞེ་སའི་ཚིག་མཛོད་རབ་གསལ་མེ་ལོང་།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    CA98:
+      image_group_id: I8LS18639
+      title: ''
+      total_pages: 441
+      order: 1
+      base_file: CA98.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
